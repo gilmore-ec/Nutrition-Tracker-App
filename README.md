@@ -1,15 +1,16 @@
 # README
 
-## Author
+## Author: Timothy Gilmore
 
-### Timothy Gilmore
+### Contact
 
-[GitHub](https://github.com/gilmore-ec)
-
-[Email Me](https://gilmore-elegantcode.com/form.html)
+- [GitHub](https://github.com/gilmore-ec)
+- [Email Me](https://gilmore-elegantcode.com/form.html)
 
 ## Project Overview
 
 ## Technical Details
 
 ## References
+
+- WIP Features and Implementations: [TODO.md](TODO.md)
