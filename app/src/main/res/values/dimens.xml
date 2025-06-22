@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="TitleTextSize">1.5em</dimen>
-    <dimen name="HeaderTextSize">1.25em</dimen>
-    <dimen name="SubHeaderTextSize">1.1em</dimen>
-    <dimen name="BodyTextSize">1em</dimen>
+    <dimen name="TitleTextSize">24sp</dimen>
+    <dimen name="HeaderTextSize">20sp</dimen>
+    <dimen name="SubHeaderTextSize">17.5sp</dimen>
+    <dimen name="BodyTextSize">16sp</dimen>
     <dimen name="ImportantTextSize">@dimen/SubHeaderTextSize</dimen>
 
     <integer name="TitleTextWeight">800</integer>
