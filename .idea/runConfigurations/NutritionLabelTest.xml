@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NutritionLabelTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true" show_console_on_std_err="true">
+    <module name="Nutrition_Tracker.app.unitTest" />
+    <option name="PACKAGE_NAME" value="com.example.nutritiontracker" />
+    <option name="MAIN_CLASS_NAME" value="com.example.nutritiontracker.NutritionLabelTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

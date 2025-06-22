@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TitleTextSize">1.5em</dimen>
+    <dimen name="HeaderTextSize">1.25em</dimen>
+    <dimen name="SubHeaderTextSize">1.1em</dimen>
+    <dimen name="BodyTextSize">1em</dimen>
+    <dimen name="ImportantTextSize">@dimen/SubHeaderTextSize</dimen>
+
+    <integer name="TitleTextWeight">800</integer>
+    <integer name="HeaderTextWeight">7500</integer>
+    <integer name="SubHeaderTextWeight">700</integer>
+    <integer name="BodyEmphasisTextWeight">600</integer>
+
+
+    <dimen name="mainMarginHorizontal">20dp</dimen>
+    <dimen name="mainMarginVertical">30dp</dimen>
+    <dimen name="containerMarginHorizontal">10dp</dimen>
+    <dimen name="containerMarginVertical">20dp</dimen>
+
+    <dimen name="minEditTextWidth">240dp</dimen>
+</resources>

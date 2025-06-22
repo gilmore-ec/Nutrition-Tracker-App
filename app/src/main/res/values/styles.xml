@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Activity">
+        <item name="android:layout_marginHorizontal">@dimen/mainMarginHorizontal</item>
+        <item name="android:layout_marginVertical">@dimen/mainMarginVertical</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="Text" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="TitleText" parent="Text">
+        <item name="android:textSize">@dimen/TitleTextSize</item>
+        <item name="android:textFontWeight">@integer/TitleTextWeight</item>
+    </style>
+    <style name="HeaderText" parent="Text">
+        <item name="android:textSize">@dimen/HeaderTextSize</item>
+        <item name="titleTextColor">@color/text</item>
+        <item name="android:textFontWeight">@integer/HeaderTextWeight</item>
+    </style>
+    <style name="SubHeaderText" parent="Text">
+        <item name="android:textSize">@dimen/SubHeaderTextSize</item>
+        <item name="titleTextColor">@color/text</item>
+        <item name="android:textFontWeight">@integer/SubHeaderTextWeight</item>
+    </style>
+    <style name="ImportantText" parent="Text">
+        <item name="android:textSize">@dimen/ImportantTextSize</item>
+        <item name="titleTextColor">@color/importantText</item>
+        <item name="android:textFontWeight">@integer/SubHeaderTextWeight</item>
+    </style>
+    <style name="BodyText" parent="Text">
+        <item name="android:textSize">@dimen/BodyTextSize</item>
+    </style>
+
+    <style name="EditText" parent="android:Widget.EditText">
+        <item name="android:minWidth">@dimen/minEditTextWidth</item>
+        <item name="minHeight">48dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="InputTextNumbers" parent="EditText">
+        <item name="android:inputType">number</item>
+        <item name="minHeight">48dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="horizontalGroup">
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="verticalGroup">
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="Button" parent="Widget.AppCompat.Button">
+        <item name="minWidth">@dimen/minEditTextWidth</item>
+        <item name="minHeight">48dp</item>
+        <item name="backgroundTint">@color/primary</item>
+    </style>
+
+</resources>
